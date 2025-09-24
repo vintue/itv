@@ -7,34 +7,6 @@ http://bziyunshao.synology.me:8890/bysid/2
 http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-name="無綫新聞台",無綫新聞台
 http://bziyunshao.synology.me:8890/bysid/83
-#EXTINF:-1 tvg-name="無綫財經體育資訊台",無綫財經體育資訊台
-http://bziyunshao.synology.me:8890/bysid/85
-#EXTINF:-1 tvg-name="亚洲新闻",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="美国Newsmax TV",美国Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-name="NASA TV",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-name="NASA TV 2",NASA TV 2
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-name="NBC 26 Green Bay WI (WGBA)",NBC 26 Green Bay WI (WGBA)
-https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 tvg-name="NBC WTMJ4",NBC WTMJ4
-https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
-#EXTINF:-1 tvg-name="Nothing Scripted",Nothing Scripted
-https://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 tvg-name="PIX11 (New York)",PIX11 (New York)
-https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
-#EXTINF:-1 tvg-name="WLS TV News",WLS TV News
-https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-#EXTINF:-1 tvg-name="WPVI-TV News",WPVI-TV News
-https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-#EXTINF:-1 tvg-name="WTGS FOX 28 Savannah",WTGS FOX 28 Savannah
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 tvg-name="WTGS FOX 28 Savannah GA",WTGS FOX 28 Savannah GA
-https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 tvg-name="WTVD TV News",WTVD TV News
-https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 #EXTINF:-1 tvg-name="咪咕直播 𝟜𝕂-𝟙" ,咪咕直播 𝟜𝕂-𝟙「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播 𝟜𝕂-𝟚" ,咪咕直播 𝟜𝕂-𝟚「移动」
@@ -115,6 +87,34 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播 𝟛𝟠「移动」" ,咪咕直播 𝟛𝟠「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="無綫財經體育資訊台",無綫財經體育資訊台
+http://bziyunshao.synology.me:8890/bysid/85
+#EXTINF:-1 tvg-name="亚洲新闻",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="美国Newsmax TV",美国Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="NASA TV",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-name="NASA TV 2",NASA TV 2
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-name="NBC 26 Green Bay WI (WGBA)",NBC 26 Green Bay WI (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 tvg-name="NBC WTMJ4",NBC WTMJ4
+https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
+#EXTINF:-1 tvg-name="Nothing Scripted",Nothing Scripted
+https://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1 tvg-name="PIX11 (New York)",PIX11 (New York)
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 tvg-name="WLS TV News",WLS TV News
+https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
+#EXTINF:-1 tvg-name="WPVI-TV News",WPVI-TV News
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
+#EXTINF:-1 tvg-name="WTGS FOX 28 Savannah",WTGS FOX 28 Savannah
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 tvg-name="WTGS FOX 28 Savannah GA",WTGS FOX 28 Savannah GA
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 tvg-name="WTVD TV News",WTVD TV News
+https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 #EXTINF:-1 tvg-name="AL Jazeera FHD",AL Jazeera FHD
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="ArirangTV FHD",ArirangTV FHD
