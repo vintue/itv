@@ -75,7 +75,6 @@ Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 
 粤语频道,#genre#
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 J2,http://bziyunshao.synology.me:8890/bysid/82
 翡翠台,https://migu.188766.xyz/?migutoken=ead9a59f72e70f9cf8226781327b4d4b&id=hk_fct&type=dy
 翡翠台4K,https://migu.188766.xyz/?migutoken=ac3b9493fb440075029843899e31766c&id=hk_fct4k&type=dy
