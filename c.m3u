@@ -7,6 +7,12 @@ http://bziyunshao.synology.me:8890/bysid/2
 http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-name="无线新闻台",无线新闻台
 http://bziyunshao.synology.me:8890/bysid/83
+#EXTINF:-1 tvg-name="翡翠台",翡翠台4K
+https://migu.188766.xyz/?migutoken=ac3b9493fb440075029843899e31766c&id=hk_fct4k&type=dy
+#EXTINF:-1 tvg-name="翡翠台",翡翠台
+https://migu.188766.xyz/?migutoken=ead9a59f72e70f9cf8226781327b4d4b&id=hk_fct&type=dy
+#EXTINF:-1 tvg-name="无线新闻",无线新闻
+https://migu.188766.xyz/?migutoken=84847c68967ca997eb67ad5a788a1a83&id=hk_wxxw&type=dy
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="未分组",翡翠台HD
 http://60.246.171.122:8889/bysid/1
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="未分组",翡翠台
